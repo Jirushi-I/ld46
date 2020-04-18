@@ -12,6 +12,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Billboarder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SerializedVariable Handlers/TransformSerializer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/_ScriptableObjects/SerializedVariables/SerializedFloat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EntityController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -72,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587219193394</updated>
       <workItem from="1587219217053" duration="2043000" />
+      <workItem from="1587241271152" duration="599000" />
     </task>
     <servers />
   </component>

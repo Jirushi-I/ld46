@@ -41,6 +41,9 @@
           </e>
           <e p="Billboarder.cs" t="Include" />
           <e p="EntityController.cs" t="Include" />
+          <e p="SerializedVariable Handlers" t="Include">
+            <e p="TransformSerializer.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="ld46.sln" t="IncludeFlat" />
