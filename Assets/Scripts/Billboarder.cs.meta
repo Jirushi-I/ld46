@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2fb4d5040cb47454097152b8f1f77bc4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - usedCameraVector: {fileID: 11400000, guid: f334a7a97c68eb843990623a7c7419e3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
