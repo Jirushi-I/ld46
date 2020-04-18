@@ -11,6 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Billboarder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/_ScriptableObjects/SerializedVariables/SerializedFloat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EntityController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -70,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587219193394</updated>
-      <workItem from="1587219217053" duration="1286000" />
+      <workItem from="1587219217053" duration="2043000" />
     </task>
     <servers />
   </component>
