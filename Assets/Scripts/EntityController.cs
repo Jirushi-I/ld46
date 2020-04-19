@@ -21,8 +21,6 @@ public class EntityController : MonoBehaviour
     
     private void FixedUpdate()
     {
-        var position = transform.position;
-        
         if (_moveDirection.x > 0)
             _spriteRenderer.flipX = false;
         else if (_moveDirection.x < 0)
@@ -31,7 +29,7 @@ public class EntityController : MonoBehaviour
         _controller.Move(new Vector3(
                              _moveDirection.x,
                              0,
-                             _moveDirection.y) * (Time.fixedDeltaTime * 5));
+                             _moveDirection.y) * (Time.fixedDeltaTime * 3 + Time.fixedDeltaTime * Mathf.Sqrt((Time.time/2 + Mathf.Abs(1100-transform.position.x))/3)));
     }
 
     public void Move(InputAction.CallbackContext context) => _moveDirection = context.ReadValue<Vector2>();

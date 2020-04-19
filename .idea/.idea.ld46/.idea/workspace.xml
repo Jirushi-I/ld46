@@ -11,16 +11,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SerializedVariable Handlers/UIIntDeserializer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Billboarder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PickableController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SerializedVariable Handlers/TransformSerializer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/_ScriptableObjects/SerializedVariables/SerializedFloat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EntityController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Consumer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/_ScriptableObjects/SerializedVariables/SerializedBool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE83287B-9D2C-49CB-A7F1-8DC22475C71F/6f/1b84629e/Transform.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/_ScriptableObjects/SerializedVariables/SerializedFloat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/_ScriptableObjects/SerializedVariables/SerializedBool.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EntityController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SerializedVariable Handlers/PlayerHealthHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SerializedVariable Handlers/FloatDeserializer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Consumer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PickableController.cs" />
       </list>
     </option>
   </component>
@@ -74,6 +84,14 @@
       <updated>1587219193394</updated>
       <workItem from="1587219217053" duration="2043000" />
       <workItem from="1587241271152" duration="599000" />
+      <workItem from="1587255390346" duration="2053000" />
+      <workItem from="1587257931549" duration="1790000" />
+      <workItem from="1587259760045" duration="1789000" />
+      <workItem from="1587261612596" duration="1789000" />
+      <workItem from="1587263424146" duration="1789000" />
+      <workItem from="1587265235248" duration="915000" />
+      <workItem from="1587269387315" duration="1848000" />
+      <workItem from="1587274001098" duration="711000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
+using UnityEngine.InputSystem;
 
 namespace ScriptableObjects.SerializedVariables
 {
@@ -6,5 +8,7 @@ namespace ScriptableObjects.SerializedVariables
     public class SerializedBool : ScriptableObject
     {
         public bool value;
+
+        public void Set(InputAction.CallbackContext context) => value = context.ReadValueAsButton();
     }
 }
